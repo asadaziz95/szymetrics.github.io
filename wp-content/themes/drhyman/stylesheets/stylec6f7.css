@@ -615,9 +615,9 @@ ol.showNotes .showNotes-link a:hover i,
 }
 
 .bottom-xs {
-    -ms-flex-align: end;
-    -webkit-box-align: end;
-    align-items: flex-end
+    -ms-flex-align: center;
+    -webkit-box-align: center;
+    align-items: center
 }
 
 .around-xs {
